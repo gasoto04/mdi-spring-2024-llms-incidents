@@ -19,6 +19,7 @@ Repository for Massive Data Institute with Professor Robin Dillon-Merrill Spring
   - `Coal Labeling Qualtrics instructions.docx`: Labeling instructions given to human labelers 
   - `lm_hackers.ipynb`: Notebook that explains how LLMs and word embeddings work from Professor Jeremy Howard
   - `Madsen_et_al-2016-Risk_Analysis.pdf`: Airline Safety Improvement Through Experience with Near-Misses: A Cautionary TaleNotebook for RAG pipeline experiments.
+  - `project-document-spring-2024.docx`: Documentation of the project
 
 - **poster/**: Contains Jupyter notebooks for various experiments and analyses.
   - `HollandSoto_IncidentsAndLLMs_Spring2024.pdf`: Poster presented at MDI Spring 2024 Showcase
